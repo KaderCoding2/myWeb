@@ -1,0 +1,79 @@
+/* Conteneur principal pour l'article */
+.contrainer {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
+}
+
+/* Image du profil */
+#Oup {
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: auto;
+    border-radius: 50px;
+    border: solid white;
+}
+
+/* Footer */
+footer {
+    background-color: rgb(34, 33, 33);
+    border-radius: 0 0 10px 10px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer .Ay {
+    color: white;
+    text-decoration: none;
+}
+
+/* Mise en forme des images */
+img {
+    border-radius: 10px;
+    width: 100%; /* S'adapte à la taille du conteneur */
+    height: auto; /* Maintient les proportions de l'image */
+    max-width: 600px; /* Limite la largeur maximale */
+}
+
+/* Article principal */
+.art {
+    width: 100%;
+    max-width: 800px;
+    background-color: rgb(119, 90, 117);
+    border-radius: 10px 10px 0 0;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Espacement du footer */
+.Ay {
+    margin-left: 5px;
+    color: white;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    /* Rendre l'article plus large sur des écrans plus petits */
+    .art {
+        max-width: 100%;
+        padding: 15px;
+    }
+
+    /* Adapter l'image du profil */
+    #Oup {
+        height: 60px;
+        width: 60px;
+
+    }
+
+    /* Ajuster la taille des autres éléments */
+    img {
+        max-width: 100%;
+    }
+}
