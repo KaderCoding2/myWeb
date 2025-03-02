@@ -43,7 +43,7 @@ img {
 
 /* Article principal */
 .art {
-    width: 130%;
+    width: auto;
     max-width: 800px;
     background-color: rgb(119, 90, 117);
     border-radius: 10px 10px 10px 10px;
