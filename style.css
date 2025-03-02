@@ -48,7 +48,8 @@ img {
     background-color: rgb(119, 90, 117);
     border-radius: 10px 10px 10px 10px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 20px; 
+    height: 100vh;
 }
 
 /* Espacement du footer */
