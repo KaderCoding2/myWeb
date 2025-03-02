@@ -47,7 +47,7 @@ img {
     max-width: 800px;
     background-color: rgb(119, 90, 117);
     border-radius: 10px 10px 10px 10px;
-    margin: auto;
+    margin: 0 auto;
     padding: 20px;
 }
 
