@@ -44,11 +44,12 @@ img {
 /* Article principal */
 .art {
     width: auto;
-    max-width: 1400px;
+    max-width: 800px;
     background-color: rgb(119, 90, 117);
     border-radius: 10px 10px 10px 10px;
     margin: 5px;
     padding: 20px;
+    height: 100vh;
 }
 
 /* Espacement du footer */
