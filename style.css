@@ -1,4 +1,4 @@
-html ; body {
+html{
     background-color: rgb(11, 67, 206);
 }
 #blogs-div { 
@@ -54,7 +54,7 @@ article {
 .div-contrainer {
     background-color: rgb(49, 50, 58);
     border-radius: 10px 10px 10px 10px;
-    height: 900px;
+    height: 1800px;
     width: 950px auto;
     margin-top: 3px;
     max-height: 500px;
