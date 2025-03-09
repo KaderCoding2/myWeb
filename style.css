@@ -52,7 +52,7 @@ article {
     background-color: rgb(49, 50, 58);
     border-radius: 10px 10px 10px 10px;
     height: 500px auto;
-    width: 950px;
+    width: 950px auto;
     margin-top: 3px;
     max-height: 500px;
     padding-top: 10px;
@@ -89,6 +89,16 @@ article {
 }
 .Blogs h1 {
     position: relative;
-    bottom: 30px;
-    left: 450px;
+    bottom: 20px;
+    left: 432.5px;
+    color: rgb(49, 50, 58);
+    font-size: x-large;
+}
+.Blogs img {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    bottom: 10px;
+    left: 435px;
+    color: rgb(49, 50, 58);
 }
