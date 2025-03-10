@@ -52,14 +52,9 @@ article {
 .div-contrainer {
     background-color: rgb(49, 50, 58);
     border-radius: 10px 10px 10px 10px;
-    height: 1200px;
     width: 950px auto;
     margin-top: 3px;
-    max-height: 500px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding: 10px 10px 10px 10px;
     display: flex;
     justify-self: center;
 }
@@ -67,7 +62,7 @@ article {
     background-color: rgb(49, 50, 58);
     border-radius: 10px 10px 10px 10px;
     width: 970px;
-    height: 105px;
+    height: 200px;
     margin-bottom: 2.5px;
     position: relative;
     justify-self: center;
