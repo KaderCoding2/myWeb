@@ -1,5 +1,4 @@
-
-#blogs-div { 
+.blogs-div { 
     background-color: rgb(11, 67, 206);
     padding-bottom: 20px;
     border-radius: 10px;
@@ -18,16 +17,7 @@ article {
     height: 300px;
     width: 460px;
 }
-.ranger1 {
-    height: 225.4px;
-    width: 440px;
-    max-height: 225.4px;
-    position: relative;
-    left: 10px;
-    top: 10px;
-    border-radius: 10px;
-}
-.ranger2 {
+.space {
     height: 225.4px;
     width: 440px;
     max-height: 225.4px;
@@ -37,7 +27,7 @@ article {
     top: 10px;
     border-radius: 10px;
 }
-.hTitle {
+.cont-title {
     font-size: medium;
     margin-left: 10px;
 }
@@ -52,9 +42,14 @@ article {
 .div-contrainer {
     background-color: rgb(49, 50, 58);
     border-radius: 10px 10px 10px 10px;
+    height: 500px auto;
     width: 950px auto;
     margin-top: 3px;
-    padding: 10px 10px 10px 10px;
+    max-height: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
     display: flex;
     justify-self: center;
 }
@@ -62,7 +57,7 @@ article {
     background-color: rgb(49, 50, 58);
     border-radius: 10px 10px 10px 10px;
     width: 970px;
-    height: 200px;
+    height: 105px;
     margin-bottom: 2.5px;
     position: relative;
     justify-self: center;
