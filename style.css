@@ -12,10 +12,6 @@ article {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
     margin-left: 10px;
-    position: relative;
-    top: 10px;
-    height: 300px;
-    width: 460px;
 }
 .space {
     height: 225.4px;
