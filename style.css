@@ -14,13 +14,14 @@ article {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
     margin-left: 10px;
+    margin-right: 10px
     height: 440px;
     width: 940px;
 }
 .space {
     height: 450.8px;
     width: 880px;
-    max-height: 225.4px;
+    max-height: 450.8px;
     margin-right: 10px;
     position: relative;
     left: 10px;
@@ -47,7 +48,7 @@ article {
     margin-top: 3px;
     max-height: 500px;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 30px;
     padding-left: 10px;
     padding-right: 10px;
     display: flex;
