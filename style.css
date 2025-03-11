@@ -5,7 +5,7 @@
     border-radius: 10px;
     border: solid 2px rgb(255, 255, 255);
     height: 500px;
-    width: 940px;
+    width: 950px;
     display: flex;
     justify-self: center;
 }
@@ -14,8 +14,8 @@ article {
     border-radius: 10px;
     margin-left: 10px;
     margin-right: 10px
-    height: 440px;
-    width: 940px;
+    height: 450px;
+    width: 950px;
 }
 .space {
     height: 450.8px;
@@ -28,7 +28,6 @@ article {
     border-radius: 10px;
 }
 .cont-title {
-    font-size: medium;
     margin-left: 10px;
 }
 .blogs-name {
@@ -46,7 +45,6 @@ article {
     width: 950px;
     margin-top: 3px;
     max-height: 500px;
-    padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
@@ -57,7 +55,7 @@ article {
     background-color: rgb(49, 50, 58);
     border-radius: 10px 10px 10px 10px;
     width: 970px;
-    height: 315px;
+    height: 157px;
     margin-bottom: 2.5px;
     position: relative;
     justify-self: center;
