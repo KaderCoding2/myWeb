@@ -3,8 +3,8 @@
     padding-bottom: 20px;
     border-radius: 10px;
     border: solid 2px rgb(255, 255, 255);
-    height: 600px auto;
-    width: 950px;
+    height: 600px;
+    width: 600px;
     display: flex;
     justify-self: center;
 }
