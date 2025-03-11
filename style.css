@@ -3,8 +3,8 @@
     padding-bottom: 20px;
     border-radius: 10px;
     border: solid 2px rgb(255, 255, 255);
-    height: 500px;
-    width: 800px;
+    height: 450px;
+    width: 900px;
     display: flex;
     justify-self: center;
 }
@@ -39,7 +39,7 @@ article {
     background-color: rgb(49, 50, 58);
     border-radius: 10px 10px 10px 10px;
     height: 500px;
-    width: 900px;
+    width: 950px;
     margin-top: 3px;
     max-height: 500px;
     padding-top: 10px;
