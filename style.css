@@ -20,7 +20,7 @@ article {
 }
 .space {
     height: 450.8px;
-    width: 880px;
+    width: 900px;
     max-height: 450.8px;
     margin-right: 10px;
     position: relative;
@@ -48,7 +48,7 @@ article {
     margin-top: 3px;
     max-height: 500px;
     padding-top: 10px;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
     display: flex;
