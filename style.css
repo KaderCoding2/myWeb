@@ -5,7 +5,7 @@
     border-radius: 10px;
     border: solid 2px rgb(255, 255, 255);
     height: 500px;
-    width: 950px;
+    width: 940px;
     display: flex;
     justify-self: center;
     margin-top: 10px;
@@ -58,14 +58,14 @@ article {
     background-color: rgb(49, 50, 58);
     border-radius: 10px 10px 10px 10px;
     width: 970px;
-    height: 105px;
+    height: 315px;
     margin-bottom: 2.5px;
     position: relative;
     justify-self: center;
 }
 .Channels-profile img {
-    height: 80px;
-    width: 80px;
+    height: 140px;
+    width: 140px;
     border: solid 2px white;
     border-radius: 10px;
     margin-top: 10px;
